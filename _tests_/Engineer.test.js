@@ -15,7 +15,7 @@ test('Gets Engineers Github Info', () => {
 });
 
 // tests that getRole() grabs the role 
-test('Gets the role of employee', () => {
+test('Gets The Role Of Employee', () => {
     const engineer = new Engineer('Thomas', 1, 'thomas@gmail.com', 'tmenture');
 
     expect(engineer.getRole()).toEqual('Engineer');
