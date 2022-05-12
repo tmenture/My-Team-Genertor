@@ -9,7 +9,7 @@ This application demonstrates the use of Object Oriented Programming (OOP), and 
 ## Installation
 1. Clone this repository
 2. Download Node.js
-3. Make sure the proper modules (inquirer)
+3. Make sure the proper modules are installed (inquirer)
     - If testing is required you must also install jest (To run test type,"npm run test" in the console).
 4. To Contribute:
     - Fork the repository
