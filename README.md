@@ -1,6 +1,6 @@
 # My-Team-Genertor
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg](https://opensource.org/licenses/MIT)
+[![License: MIT]
 
 ## Description 
 This application is used to generate a profile page for a users team of coders. The application takes user input using the inquirer module from Node.js, as well as the fs module to then display the information onto the generated HTML page.
