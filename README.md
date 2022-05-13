@@ -21,6 +21,8 @@ This application demonstrates the use of Object Oriented Programming (OOP), and 
 
 ## Video Demonstration
 
+Link to video tutorial: https://youtu.be/kxLIdqQB_YE
+
 ## Contributions
 Made by Thomas Menture
 
